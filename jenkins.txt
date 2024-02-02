@@ -5,6 +5,7 @@ pipeline {
         stage('Checkout') {
             steps {
                 // Checkout code from version control
+                https://github.com/binitapatel164/jenkins-demo.git
                 
             }
         }
